@@ -16,4 +16,6 @@ A1 = SDI Data low voltage
 B1 = SDI Data high voltage
 DIR = Direction of level shifting
 
+<img width="1322" height="428" alt="grafik" src="https://github.com/Positive0Zero/-Arduino-SDI-12-for-level-shifter/blob/main/Schematic_Level_Shifter.JPG" />
+
 
